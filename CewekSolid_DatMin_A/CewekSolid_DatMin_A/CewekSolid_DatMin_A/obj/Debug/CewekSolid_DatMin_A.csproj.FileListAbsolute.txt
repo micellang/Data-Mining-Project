@@ -1,0 +1,58 @@
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.exe.config
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.exe
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.pdb
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.AssemblyReference.cache
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormMenu.resources
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormProximity.resources
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.Properties.Resources.resources
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.GenerateResource.cache
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.CoreCompileInputs.cache
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.exe
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.pdb
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CsvHelper.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Buffers.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Memory.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Numerics.Vectors.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CsvHelper.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Buffers.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Memory.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Numerics.Vectors.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Michelle (nitip)\KULIAH\SEMESTER 3\Data Mining\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.CopyComplete
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.exe.config
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.exe
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CewekSolid_DatMin_A.pdb
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CsvHelper.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Buffers.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Memory.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Numerics.Vectors.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\CsvHelper.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Buffers.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Memory.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Numerics.Vectors.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.AssemblyReference.cache
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormGini.resources
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormKMeans.resources
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormMenu.resources
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.FormProximity.resources
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.Properties.Resources.resources
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.GenerateResource.cache
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.CoreCompileInputs.cache
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.csproj.CopyComplete
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.exe
+D:\Informatika DSAI\Informatika DSAI S3\Data Mining\Project Datmin\CewekSolid_DatMin_A\CewekSolid_DatMin_A\CewekSolid_DatMin_A\obj\Debug\CewekSolid_DatMin_A.pdb
